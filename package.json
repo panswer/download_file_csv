@@ -1,0 +1,21 @@
+{
+    "name": "download-files",
+    "version": "1.0.0",
+    "description": "code in nodejs for download files the other webs",
+    "main": "index.js",
+    "scripts": {
+        "test": "node index",
+        "start": "node index"
+    },
+    "keywords": [
+        "download",
+        "files",
+        "nodejs"
+    ],
+    "author": "Ricardo Mejisa",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.21.0",
+        "colors": "^1.4.0"
+    }
+}
