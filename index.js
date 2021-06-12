@@ -28,7 +28,7 @@ let arguments = Argv.getParams();
 // console.log(arguments);
 
 const main = async() => {
-    let host = arguments.host || 'https://airtm.eyssprueba.com';
+    let host = arguments.host || 'https://[addresse]';
 
     let myWeb = new Connect(host);
 
